@@ -9,6 +9,21 @@
           "color": "#F4F0E6",
           "name": "Paper",
           "slug": "paper"
+        },
+        {
+          "color": "#2D2926",
+          "name": "Ink",
+          "slug": "ink"
+        },
+        {
+          "color": "#68705A",
+          "name": "Olive",
+          "slug": "olive"
+        },
+        {
+          "color": "#A65F46",
+          "name": "Terracotta",
+          "slug": "terracotta"
         }
       ]
     }
