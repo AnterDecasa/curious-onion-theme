@@ -1,6 +1,17 @@
 {
   "$schema": "https://schemas.wp.org/trunk/theme.json",
   "version": 3,
-  "settings": {},
+  "settings": {
+    "color":{
+      "defaultPalette": false,
+      "palette":[
+        {
+          "color": "#F4F0E6",
+          "name": "Paper",
+          "slug": "paper"
+        }
+      ]
+    }
+  },
   "styles": {}
 }
