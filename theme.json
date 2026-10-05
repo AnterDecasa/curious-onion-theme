@@ -61,6 +61,13 @@
           "slug": "2-x-large",
           "size": "2.5rem"
         } 
+      ],
+      "fontFamilies": [
+        {
+          "name": "Serif",
+          "slug": "serif",
+          "fontFamily": "Georgia, 'Times New Roman', serif"
+        }
       ]
     }
   },
@@ -68,6 +75,9 @@
     "color":  {
       "background": "var(--wp--preset--color--paper)",
       "text": "var(--wp--preset--color--ink)"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--serif)"
     }
   }
 }
