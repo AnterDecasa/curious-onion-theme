@@ -69,6 +69,10 @@
           "fontFamily": "Georgia, 'Times New Roman', serif"
         }
       ]
+    },
+    "layout": {
+      "contentSize": "45rem",
+      "wideSize": "75rem"
     }
   },
   "styles": {
